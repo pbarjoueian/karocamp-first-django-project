@@ -1,0 +1,9 @@
+pipenv==2024.1.0
+django==4.2.11
+
+# Dev Packages
+isort
+black
+flake8
+autoflake
+pre-commit
